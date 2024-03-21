@@ -4,8 +4,8 @@
 void wifiConnect(const char* SSID,const char* PASSWORD);
 void sendMessage(const char* token, const char* message);
 
-const char* SSID = "BOX 2";
-const char* PASSWORD = "23915809";
+const char* SSID = "";
+const char* PASSWORD = "";
 String Linetoken = "";
 
 void setup() {
