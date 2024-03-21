@@ -6,7 +6,7 @@ void sendMessage(const char* token, const char* message);
 
 const char* SSID = "BOX 2";
 const char* PASSWORD = "23915809";
-String Linetoken = "fSZb4OFABKbgNgJHpFNbNYqx1gHSId4rYXkk3iCZn54";
+String Linetoken = "";
 
 void setup() {
   Serial.begin(115200);
